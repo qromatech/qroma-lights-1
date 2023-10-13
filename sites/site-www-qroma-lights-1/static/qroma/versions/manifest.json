@@ -1,0 +1,10 @@
+{
+  "project_id": "qroma-lights-1",
+  "version": "0.1.0",
+  "qromaEsp32LoaderManifests": [
+    {
+      "name": "qroma-lights-1",
+      "manifestPath": "/qroma/versions/0.1.0/firmware/manifest-firmware.json"
+    }
+  ]
+}
